@@ -1,5 +1,7 @@
 target
 basil.cached.ini
 basil.standard.ini
-executor.report.txt
-
+.classpath
+.project
+.settings/
+executors.report.txt
