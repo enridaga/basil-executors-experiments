@@ -53,12 +53,24 @@ public class QueryexecutorTest extends BasilTestBase {
 				} finally {
 					long time = System.currentTimeMillis() - start;
 					l.info("{}: {}ms - {}", lsq, time, status);
+					report.write("<http://basil.kmi.open.ac.uk/experiment/");
+					report.write(Integer.toString(qn));
+					report.write('>');
+					report.write(" <http://basil.kmi.open.ac.uk/experiment/lsq> <");
 					report.write(lsq);
-					report.write(" ");
+					report.write('>');
+					report.write(" .\n <http://basil.kmi.open.ac.uk/experiment/");
+					report.write(Integer.toString(qn));
+					report.write('>');
+					report.write(" <http://basil.kmi.open.ac.uk/experiment/status>");
 					report.write(Integer.toString(status));
-					report.write(" ");
+					report.write(" .\n");
+					report.write("<http://basil.kmi.open.ac.uk/experiment/");
+					report.write(Integer.toString(qn));
+					report.write('>');
+					report.write(" <http://basil.kmi.open.ac.uk/experiment/ms> ");
 					report.write(Long.toString(time));
-					report.write("\n");
+					report.write(" . \n");
 					Thread.sleep(BasilExecutorsTestSuite.queriesDelay);
 				}
 			}

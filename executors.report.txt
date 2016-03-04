@@ -1,20 +1,60 @@
-http://lsq.aksw.org/res/DBpedia-q275192 200 345
-http://lsq.aksw.org/res/DBpedia-q295550 200 65
-http://lsq.aksw.org/res/DBpedia-q673916 200 62
-http://lsq.aksw.org/res/DBpedia-q1168333 200 61
-http://lsq.aksw.org/res/DBpedia-q1005390 200 61
-http://lsq.aksw.org/res/DBpedia-q32555 200 67
-http://lsq.aksw.org/res/DBpedia-q1191110 200 63
-http://lsq.aksw.org/res/DBpedia-q693877 200 61
-http://lsq.aksw.org/res/DBpedia-q1148724 200 60
-http://lsq.aksw.org/res/DBpedia-q427568 200 61
-http://lsq.aksw.org/res/DBpedia-q403117 200 65
-http://lsq.aksw.org/res/DBpedia-q39542 200 572
-http://lsq.aksw.org/res/DBpedia-q53012 200 58
-http://lsq.aksw.org/res/DBpedia-q155736 200 59
-http://lsq.aksw.org/res/DBpedia-q450345 200 60
-http://lsq.aksw.org/res/DBpedia-q206393 200 65
-http://lsq.aksw.org/res/DBpedia-q325097 200 55
-http://lsq.aksw.org/res/DBpedia-q167321 200 57
-http://lsq.aksw.org/res/DBpedia-q206176 200 56
-http://lsq.aksw.org/res/DBpedia-q745609 200 59
+<http://basil.kmi.open.ac.uk/experiment/1> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q427568> .
+ <http://basil.kmi.open.ac.uk/experiment/1> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/1> <http://basil.kmi.open.ac.uk/experiment/ms> 351 . 
+<http://basil.kmi.open.ac.uk/experiment/2> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q403117> .
+ <http://basil.kmi.open.ac.uk/experiment/2> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/2> <http://basil.kmi.open.ac.uk/experiment/ms> 67 . 
+<http://basil.kmi.open.ac.uk/experiment/3> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q1168333> .
+ <http://basil.kmi.open.ac.uk/experiment/3> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/3> <http://basil.kmi.open.ac.uk/experiment/ms> 54 . 
+<http://basil.kmi.open.ac.uk/experiment/4> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q1191110> .
+ <http://basil.kmi.open.ac.uk/experiment/4> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/4> <http://basil.kmi.open.ac.uk/experiment/ms> 50 . 
+<http://basil.kmi.open.ac.uk/experiment/5> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q167321> .
+ <http://basil.kmi.open.ac.uk/experiment/5> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/5> <http://basil.kmi.open.ac.uk/experiment/ms> 76 . 
+<http://basil.kmi.open.ac.uk/experiment/6> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q325097> .
+ <http://basil.kmi.open.ac.uk/experiment/6> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/6> <http://basil.kmi.open.ac.uk/experiment/ms> 52 . 
+<http://basil.kmi.open.ac.uk/experiment/7> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q673916> .
+ <http://basil.kmi.open.ac.uk/experiment/7> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/7> <http://basil.kmi.open.ac.uk/experiment/ms> 55 . 
+<http://basil.kmi.open.ac.uk/experiment/8> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q206176> .
+ <http://basil.kmi.open.ac.uk/experiment/8> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/8> <http://basil.kmi.open.ac.uk/experiment/ms> 48 . 
+<http://basil.kmi.open.ac.uk/experiment/9> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q53012> .
+ <http://basil.kmi.open.ac.uk/experiment/9> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/9> <http://basil.kmi.open.ac.uk/experiment/ms> 78 . 
+<http://basil.kmi.open.ac.uk/experiment/10> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q206393> .
+ <http://basil.kmi.open.ac.uk/experiment/10> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/10> <http://basil.kmi.open.ac.uk/experiment/ms> 64 . 
+<http://basil.kmi.open.ac.uk/experiment/11> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q1148724> .
+ <http://basil.kmi.open.ac.uk/experiment/11> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/11> <http://basil.kmi.open.ac.uk/experiment/ms> 48 . 
+<http://basil.kmi.open.ac.uk/experiment/12> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q295550> .
+ <http://basil.kmi.open.ac.uk/experiment/12> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/12> <http://basil.kmi.open.ac.uk/experiment/ms> 53 . 
+<http://basil.kmi.open.ac.uk/experiment/13> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q155736> .
+ <http://basil.kmi.open.ac.uk/experiment/13> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/13> <http://basil.kmi.open.ac.uk/experiment/ms> 59 . 
+<http://basil.kmi.open.ac.uk/experiment/14> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q275192> .
+ <http://basil.kmi.open.ac.uk/experiment/14> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/14> <http://basil.kmi.open.ac.uk/experiment/ms> 77 . 
+<http://basil.kmi.open.ac.uk/experiment/15> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q32555> .
+ <http://basil.kmi.open.ac.uk/experiment/15> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/15> <http://basil.kmi.open.ac.uk/experiment/ms> 61 . 
+<http://basil.kmi.open.ac.uk/experiment/16> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q745609> .
+ <http://basil.kmi.open.ac.uk/experiment/16> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/16> <http://basil.kmi.open.ac.uk/experiment/ms> 48 . 
+<http://basil.kmi.open.ac.uk/experiment/17> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q1005390> .
+ <http://basil.kmi.open.ac.uk/experiment/17> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/17> <http://basil.kmi.open.ac.uk/experiment/ms> 70 . 
+<http://basil.kmi.open.ac.uk/experiment/18> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q693877> .
+ <http://basil.kmi.open.ac.uk/experiment/18> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/18> <http://basil.kmi.open.ac.uk/experiment/ms> 47 . 
+<http://basil.kmi.open.ac.uk/experiment/19> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q39542> .
+ <http://basil.kmi.open.ac.uk/experiment/19> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/19> <http://basil.kmi.open.ac.uk/experiment/ms> 479 . 
+<http://basil.kmi.open.ac.uk/experiment/20> <http://basil.kmi.open.ac.uk/experiment/lsq> <http://lsq.aksw.org/res/DBpedia-q450345> .
+ <http://basil.kmi.open.ac.uk/experiment/20> <http://basil.kmi.open.ac.uk/experiment/status>200 .
+<http://basil.kmi.open.ac.uk/experiment/20> <http://basil.kmi.open.ac.uk/experiment/ms> 66 . 
