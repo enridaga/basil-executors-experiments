@@ -37,7 +37,7 @@ public class QueryexecutorTest extends BasilTestBase {
 				}
 				String api = ee.getKey();
 				String lsq = ee.getValue();
-				l.info("Running api {}", api);
+				l.info("Running api {} ({})", api, lsq);
 				l.trace("Attempting to access {}", api);
 				long start = System.currentTimeMillis();
 				int status = 0;
