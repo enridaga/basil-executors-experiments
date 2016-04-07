@@ -17,8 +17,8 @@ import org.junit.runners.MethodSorters;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.hp.hpl.jena.rdf.model.ResIterator;
-import com.hp.hpl.jena.rdf.model.Resource;
+import org.apache.jena.rdf.model.ResIterator;
+import org.apache.jena.rdf.model.Resource;
 
 import uk.ac.open.kmi.basil.it.AuthenticatedTestBase;
 import uk.ac.open.kmi.basil.it.BasilTestServer;

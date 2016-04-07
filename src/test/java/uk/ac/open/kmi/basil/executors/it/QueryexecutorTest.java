@@ -62,7 +62,7 @@ public class QueryexecutorTest extends BasilTestBase {
 					report.write(" .\n <http://basil.kmi.open.ac.uk/experiment/");
 					report.write(Integer.toString(qn));
 					report.write('>');
-					report.write(" <http://basil.kmi.open.ac.uk/experiment/status>");
+					report.write(" <http://basil.kmi.open.ac.uk/experiment/status> ");
 					report.write(Integer.toString(status));
 					report.write(" .\n");
 					report.write("<http://basil.kmi.open.ac.uk/experiment/");
